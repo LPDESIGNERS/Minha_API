@@ -15,5 +15,5 @@ Este é um projeto de exemplo usando FastAPI e SQLite para criar, ler, atualizar
 1. Clone o repositório:
 
    ```sh
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone <https://github.com/LPDESIGNERS/Minha_API>
+   cd <Minha_API>
